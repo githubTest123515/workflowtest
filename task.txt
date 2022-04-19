@@ -1,0 +1,4 @@
+xhr call
+1 file madhe string length  word count kiti letter dursya file madhe function call karycha aahe kiti captial aani small aahe letter 
+reverse string check anagram aahe ki nahi 
+task...
